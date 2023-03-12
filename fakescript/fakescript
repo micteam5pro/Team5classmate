@@ -1,0 +1,3 @@
+#!/bin/bash
+# This is to demo another script movemwent
+echo " This another file under fakecript " >> file11
